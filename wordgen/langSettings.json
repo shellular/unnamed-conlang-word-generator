@@ -1,0 +1,7 @@
+{
+    "vowels": ["a", "i", "u"],
+
+    "diphthongs": ["ai", "ei", "oi", "au"],
+    
+    "consonants": ["p", "t", "f", "k", "m", "n", "l", "k", "w", "b", "d", "g"]
+}

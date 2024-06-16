@@ -1,0 +1,7 @@
+{
+    "defaultWordsGenerated": 15,
+    "allowDiphthongs": true,
+    "minSyllables": 1,
+    "maxSyllables": 3,
+    "mustEndInVowel": true
+}
